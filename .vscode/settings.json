@@ -1,0 +1,20 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "uaccess.h": "c",
+        "facility.h": "c",
+        "extable.h": "c",
+        "ctl_reg.h": "c",
+        "processor.h": "c",
+        "errno.h": "c",
+        "module.h": "c",
+        "init.h": "c",
+        "*.tcc": "c",
+        "fstream": "c",
+        "system_error": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "ranges": "c"
+    }
+}

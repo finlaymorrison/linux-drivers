@@ -1,0 +1,1 @@
+cmd_/home/finlay/src/linux-drivers/scull/Module.symvers := sed 's/\.ko$$/\.o/' /home/finlay/src/linux-drivers/scull/modules.order | scripts/mod/modpost -m -a  -o /home/finlay/src/linux-drivers/scull/Module.symvers -e -i Module.symvers   -T -
